@@ -1,5 +1,4 @@
 # MineSweeper
-MineSweeper Project
 This project is created because I want your idea about this project and actually I want to Complete this project Successfully!
 
 about project
