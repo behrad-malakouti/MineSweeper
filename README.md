@@ -1,6 +1,7 @@
 # MineSweeper
-A MineSweeper Project for more information please read ---> readme.md &lt;---- برای اطلاعات بیشتر فایل ،MineSweeper پروژه 
-This project is created because I want your idea about this project and actually I ant to Complete this project Successfully!
+MineSweeper Project
+-------------------
+This project is created because I want your idea about this project and actually I want to Complete this project Successfully!
 
 about project
 -------------
